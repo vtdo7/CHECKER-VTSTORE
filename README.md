@@ -1,2 +1,0 @@
-# CHECKER-VTSTORE
-CHECKER feito pelo @VtSTORE7
